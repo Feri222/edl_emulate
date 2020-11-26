@@ -22,6 +22,9 @@ In another window (client)
 ./client.py
 ```
 
-![Demo](emulate_edl.gif)
+<img alt="Demo" src="emulate_edl.gif"/>
 
-## Have fun !
+## Have fun !# Default ignored files
+/shelf/
+/workspace.xml
+
